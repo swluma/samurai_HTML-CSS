@@ -1,4 +1,1 @@
-guha
-ステージの変更取消しを確認
-ステージ取消しを確認
-fugafuga
+{"filter":false,"title":"README.md","tooltip":"/git_tutorial/README.md","undoManager":{"mark":-1,"position":-1,"stack":[]},"ace":{"folds":[],"scrolltop":0,"scrollleft":0,"selection":{"start":{"row":0,"column":0},"end":{"row":0,"column":0},"isBackwards":false},"options":{"guessTabSize":true,"useWrapMode":false,"wrapToView":true},"firstLineState":0},"timestamp":1637512556296,"hash":"cddb4f9ba88c96a7e29cd65825eb7e4466b2d2fd"}
